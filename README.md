@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋, buddies!
+### I'm Izan, a passionate newbie in Web Development, studying *at the moment* as an autodidact.
 
-<!--
-**tigrexeto/tigrexeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**🎓 Resources I'm currently studying with:**
+ - Undefined Academy Bootcamp: Full-stack JavaScript Developer
+ - FreeCodeCamp
+ - Escuela Vue
+ - Codewars
+ 
+**👀 Other things about me:**
+- My pronouns are he/they
+- Fun fact: I have a Master's degree in Contemporary Philosophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
